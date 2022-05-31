@@ -3,3 +3,4 @@
 更新1回め  
 変更しました  
 AUTOMATIC FORWARD
+conf conflict

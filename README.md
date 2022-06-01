@@ -1,6 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-更新1回め  
-変更しました  
-AUTOMATIC FORWARD
-main conflict
+gitub上で更新
